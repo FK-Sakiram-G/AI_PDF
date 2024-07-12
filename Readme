@@ -1,0 +1,10 @@
+use python 3.9.7
+and use python 3.12.0
+
+use venv:
+1. python -m venv .venv
+2. source .venv/bin/activate
+
+if it gives any huggingface InstructorEmbedding error use this command '''pip install --upgrade pip setuptools wheel'''
+
+brew install tesseract

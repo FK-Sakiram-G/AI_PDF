@@ -1,0 +1,100 @@
+{
+"fileName": "231231_booking_confirmation_1672312862.pdf",
+"orgName": "TestOrg",
+"orderId": "",
+"ocrBucketName": "unilever-international-2086",
+"docType": "BOOKING_CONFIRMATION",
+"bookingDetails": {
+"carrierBookingNum": "2LIM014486",
+"billOfLadingNum": "",
+"referenceNumber": "",
+"carrierName": "SeaLand",
+"originServiceMode": "",
+"destinationServiceMode": "",
+"placeOfOrigin": "CALLAO, PE",
+"placeOfDelivery": "MONTREAL, QC, CA",
+"portOfLoad": "CALLAO, PE",
+"portOfDischarge": "MONTREAL, QC, CA",
+"temperature": {
+"unit": "",
+"value": ""
+},
+"humidity": "",
+"gensetRequired": false,
+"travelType": "SEA",
+"containerDetails": [
+{
+"code": "MRKU7141977",
+"quantity": 1
+},
+{
+"code": "MRKU8713906",
+"quantity": 1
+},
+{
+"code": "MRKU8421150",
+"quantity": 1
+},
+{
+"code": "SUDU7865915",
+"quantity": 1
+},
+{
+"code": "TCKU1112095",
+"quantity": 1
+}
+],
+"weight": {
+"unit": "kg",
+"value": 20707
+},
+"commodityType": "COFFEE:(GREEN)-BAGS",
+"hazardous": {
+"hazCode": "",
+"imoClassType": "",
+"packageCount": 1,
+"packageType": "",
+"packageGroup": ""
+},
+"voyageInfo": {
+"vesselName": "POLAR COSTA RICA 239 N",
+"voyageNumber": "",
+"imoNumber": "",
+"departureEstimated": "2022-10-08 15:30",
+"arrivalEstimated": "2022-10-13 01:00"
+}
+},
+"shipmentDetails": {
+"shipmentDate": "2022-08-15",
+"containerPickUpDate": "2022-09-29 08:00",
+"railCutOffDate": "",
+"portCutOffDate": "2022-10-06 23:00",
+"vgmCutoffDate": "",
+"portOpenDate": "",
+"siCutOffDate": "",
+"shipOnBoardDate": "",
+"vent": "close"
+},
+"containers": [
+{
+"containerId": "MRKU7141977",
+"type": "20GP"
+},
+{
+"containerId": "MRKU8713906",
+"type": "20GP"
+},
+{
+"containerId": "MRKU8421150",
+"type": "20GP"
+},
+{
+"containerId": "SUDU7865915",
+"type": "20GP"
+},
+{
+"containerId": "TCKU1112095",
+"type": "20GP"
+}
+]
+}
